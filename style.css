@@ -173,7 +173,7 @@ ul{
     display:flex;
     align-items:center;
     justify-content:center;
-    margin-top:48px;
+    background-color:gray;
 }
 
 .container-action{
@@ -184,6 +184,8 @@ ul{
     height:100px;
     background-color:#3882F6;
     border-radius: 10px;
+    margin: 48px 48px;
+    
 }
 
 .call-for-action{
@@ -195,3 +197,6 @@ ul{
     border-width: 1px;
     border-style:solid;
 }
+/*FOURTH SECTION*/
+
+/*BOTTOM SECTION*/
