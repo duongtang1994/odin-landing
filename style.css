@@ -59,8 +59,12 @@ ul{
     color: #E5E7EB;
 }
 
-button{
-    padding: 10px;
+
+.a, .b{
+   border-radius: 10px;
+   border: 10px;
+   background-color: #3882F6;
+   padding: 6px 48px;
 }
 
 .image-holder{
@@ -75,9 +79,7 @@ button{
 }
 /*TOP SECTION*/
 
-
 /*SECOND SECTION*/
-
 .information{
     font-size:36px;
     font-weight:bolder;
@@ -129,7 +131,6 @@ button{
 /*SECOND SECTION*/
 
 /*THIRD SECTION*/
-
 .section-three{
     display:flex;
     background-color:#E5E7EB;
@@ -164,4 +165,33 @@ button{
     width: 200px;
     height: 50px;
     font-weight: 700;
+}
+/*THIRD SECTION*/
+
+/*FOURTH SECTION*/
+.section-four{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top:48px;
+}
+
+.container-action{
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    width:750px;
+    height:100px;
+    background-color:#3882F6;
+    border-radius: 10px;
+}
+
+.call-for-action{
+    font-weight: 700;
+}
+
+.b{
+    border-color: white;
+    border-width: 1px;
+    border-style:solid;
 }
