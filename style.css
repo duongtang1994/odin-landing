@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 /*TOP SECTION*/
 .section-one{
     display: flex;
@@ -24,7 +28,6 @@ img{
     width: 400px;
     height: 255px;
 }
-
 
 ul{
     list-style-type: none;
