@@ -113,7 +113,13 @@ ul{
     justify-content:center;
     align-items:center;
     flex-direction:column;
-  }
+}
+
+.amanda-jerry{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
 
 .box{
     width: 150px;
