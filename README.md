@@ -1,2 +1,2 @@
 # odin-landing
-#Hello, This is my second project called the odin-landing from the odin project. It is my first ever web page created with basic html, css, and flexbox. This project has taught me many things from learning what to google, using git, and how to utilize flex properties.
+#Hello, This is my second project called the odin-landing from the odin project. It is my first ever web page created with basic html, css, and flexbox. This project has taught me many things from learning what to google, using git, and how to utilize flex properties. This project turned out to be a personal webpage and I hope to someday expand on it as I gain more knowledge.
